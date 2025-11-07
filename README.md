@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm SHEIKH MD ANAMUL HAQUE 👋
 
-<!--
-**smanamulhaque/smanamulhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Programming Languages: C, Java, C#, Python
+- Web Development: HTML, CSS, .NET, REST API
+- Machine Learning: Basic understanding
+- Tools: Git, GitHub
 
-Here are some ideas to get you started:
+## 💼 Experience
+- Learning Machine Learning .NET 
+- Learning REST API development
+- Learning Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Future Goals
+- Study abroad and become a skilled Software Engineer
