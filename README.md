@@ -22,9 +22,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💼 Experience
-- Learning Machine Learning .NET 
+- Learning  ASP.NET development
 - Learning REST API development
-- Learning Machine Learning
+- Learning Machine Learning & AI
 
-## 🎯 Future Goals
-- Study abroad and become a skilled Software Engineer
