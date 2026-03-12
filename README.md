@@ -39,10 +39,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight" height="170"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight" height="170"/>
+
+</td>
+</tr>
+</table>
 ---
 
 # 🔗 Connect with me
