@@ -29,7 +29,7 @@
 <img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 |--|
 
-# 📊 GitHub Stats Widgets
+## 📊 GitHub Stats Widgets
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight" alt="GitHub Streak" />
 </p>
@@ -50,7 +50,7 @@
 </table>
 
 
-# 🔗 Connect with me
+## 🔗 Connect with me
 
 * 🌐 GitHub: https://github.com/smanamulhaque
 * 📘 Facebook: https://facebook.com/smanamul.hoque
