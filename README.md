@@ -39,9 +39,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight)  
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
