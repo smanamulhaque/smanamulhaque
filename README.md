@@ -8,28 +8,6 @@
 
 ---
 
-# Github Stats:
-
-## [Your Total Contributions]
-Auto-updates from GitHub  
-
-## [Your Current Streak]
-Auto-updates from GitHub  
-
-## [Your Longest Streak]
-Auto-updates from GitHub  
-
----
-
-### Sheikh Md. Anamul Haque's GitHub Stats
-
-- **Total Stars Earned:** ⭐ Auto-updates  
-- **Total Commits (last year):** 📊 Auto-updates  
-- **Total PRs:** 🔀 Auto-updates  
-- **Total Issues:** 🔍 Auto-updates  
-- **Contributed to (last year):** 🤝 Auto-updates  
-
----
 
 ### Most Used Languages
 
@@ -44,34 +22,48 @@ Auto-updates from GitHub
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=c" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=cs" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=java" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=python" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=php" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+</p>
+
+
+## ⚙️ Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=laravel"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+  <img src="https://skillicons.dev/icons?i=dotnet"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+</p>
+
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=vscode" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=linux" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
+
 </p>
 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## ⚙️ Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,laravel,dotnet" />
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=mysql"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
 </p>
 
 ---
 
 # 📊 GitHub Stats Widgets
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight)
 
 ---
 
@@ -84,4 +76,4 @@ Auto-updates from GitHub
 
 ---
 
-⭐ **"Being a better version of myself every day."**
+⭐ Being a better version of myself every day.
