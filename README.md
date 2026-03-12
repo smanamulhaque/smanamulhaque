@@ -1,11 +1,5 @@
 # Hi 👋 I'm **SHEIKH MD. ANAMUL HAQUE**
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Web+Developer;Love+to+Code;Always+Learning+New+Things">
-</p>
-
---
-
 ### 🚀 A Passionate Software Engineering Student
 
 💻 Love to write code  
@@ -14,39 +8,34 @@
 
 ---
 
-# 📊 GitHub Stats Overview
+# Github Stats:
 
-| Stats | Streak |
-|-------|--------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight) |
+## [Your Total Contributions]
+Auto-updates from GitHub  
 
----
+## [Your Current Streak]
+Auto-updates from GitHub  
 
-## 📈 Contribution & Activity Summary
-
-- **Total Contributions:** 873 (Feb 27, 2019 - Present)  
-- **Current Streak:** 1 day (Mar 10)  
-- **Longest Streak:** 16 days (Sep 4, 2021 - Sep 19, 2021)  
-- **Total Stars Earned:** 42  
-- **Total Commits (last year):** 9  
-- **Total PRs:** 37  
-- **Total Issues:** 3  
-- **Contributed to (last year):** 0  
+## [Your Longest Streak]
+Auto-updates from GitHub  
 
 ---
 
-## 💻 Most Used Languages
+### Sheikh Md. Anamul Haque's GitHub Stats
+
+- **Total Stars Earned:** ⭐ Auto-updates  
+- **Total Commits (last year):** 📊 Auto-updates  
+- **Total PRs:** 🔀 Auto-updates  
+- **Total Issues:** 🔍 Auto-updates  
+- **Contributed to (last year):** 🤝 Auto-updates  
+
+---
+
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight)
 
-**Detailed Breakdown:**
-
-- **JavaScript:** 61.66%  
-- **CSS:** 17.56%  
-- **HTML:** 6.49%  
-- **TypeScript:** 5.74%  
-- **Java:** 4.94%  
-- **Vue:** 3.61%
+*The languages percentage will auto-update based on your repositories*
 
 ---
 
@@ -55,29 +44,37 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,php" />
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,php"/>
 </p>
 
 ## ⚙️ Frameworks & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,dotnet" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,dotnet"/>
 </p>
 
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu"/>
 </p>
+
+---
+
+# 📊 GitHub Stats Widgets
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight)
 
 ---
 
 # 🔗 Connect with me
 
-- 🌐 **GitHub:** [smanamulhaque](https://github.com/smanamulhaque)
-- 📘 **Facebook:** [smanamul.hoque](https://facebook.com/smanamul.hoque)
-- 📷 **Instagram:** [hoque.smanamul](https://instagram.com/hoque.smanamul)
-- 💼 **LinkedIn:** [Sheikh Md. Anamul Haque](https://linkedin.com/in/sheikh-md-anamul-haque-21b9b8290)
+* 🌐 GitHub: https://github.com/smanamulhaque
+* 📘 Facebook: https://facebook.com/smanamul.hoque
+* 📷 Instagram: https://instagram.com/hoque.smanamul
+* 💼 LinkedIn: https://linkedin.com/in/sheikh-md-anamul-haque-21b9b8290
 
 ---
 
