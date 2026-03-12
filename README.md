@@ -27,7 +27,7 @@
 **Databases**
 
 <img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-|--|
+
 
 ## 📊 GitHub Stats Widgets
 <p align="center">
