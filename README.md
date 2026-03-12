@@ -6,8 +6,6 @@
 📚 Like to share my knowledge  
 🎓 Studying Software Engineering  
 
----
-
 # 👨‍💻 Skills & Experience
 
 ## 💻 Programming Languages
@@ -29,14 +27,6 @@
 
 ## 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-</p>
-
----
 
 # 📊 GitHub Stats Widgets
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight)  
