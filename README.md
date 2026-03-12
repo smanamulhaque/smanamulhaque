@@ -1,12 +1,12 @@
-# Hi 👋 I'm **SHEIKH MD. ANAMUL HAQUE**
+## Hi 👋 I'm **SHEIKH MD. ANAMUL HAQUE**
 
-### 🚀 A Passionate Software Engineering Student
+## 🚀 A Passionate Software Engineering Student
 
 💻 Love to write code  
 📚 Love sharing tech knowledge with others  
 🎓 Exploring the world of Software Engineering  
 
-# 👨‍💻 Skills & Experience
+## 👨‍💻 Skills & Experience
 
 **Programming Languages**
 
@@ -29,8 +29,6 @@
 <img title="MySQL" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 |--|
 
-
-
 # 📊 GitHub Stats Widgets
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight" alt="GitHub Streak" />
@@ -50,7 +48,7 @@
 </td>
 </tr>
 </table>
----
+
 
 # 🔗 Connect with me
 
@@ -59,6 +57,5 @@
 * 📷 Instagram: https://instagram.com/hoque.smanamul
 * 💼 LinkedIn: https://linkedin.com/in/sheikh-md-anamul-haque-21b9b8290
 
----
 
-⭐ Being a better version of myself every day.
+⭐ **Always learning, always building**
