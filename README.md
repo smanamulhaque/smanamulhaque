@@ -6,8 +6,9 @@
 📚 Love sharing tech knowledge with others
 🎓 Exploring the world of Software Engineering
 
-#👨‍💻 Skills & Experience
- Programming Languages
+# 👨‍💻 Skills & Experience
+
+Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c" style="width:40px; height:40px; border:2px solid blueviolet; border-radius:2px; padding:2px; margin:2px;" />
   <img src="https://skillicons.dev/icons?i=cs" style="width:40px; height:40px; border:2px solid blueviolet; border-radius:2px; padding:2px; margin:2px;" />
