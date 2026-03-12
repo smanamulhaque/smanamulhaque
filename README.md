@@ -2,9 +2,9 @@
 
 ### 🚀 A Passionate Software Engineering Student
 
-💻 Love to write code
-📚 Like to share my knowledge
-🎓 Studying **Software Engineering**
+💻 Love to write code  
+📚 Like to share my knowledge  
+🎓 Studying Software Engineering  
 
 ---
 
