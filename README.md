@@ -44,19 +44,25 @@ Auto-updates from GitHub
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,php"/>
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,javascript,php" />
 </p>
 
-## ⚙️ Frameworks & Technologies
+## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,dotnet"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## ⚙️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,laravel,dotnet" />
 </p>
 
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,linux,ubuntu" />
 </p>
 
 ---
