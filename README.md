@@ -3,12 +3,12 @@
 ### 🚀 A Passionate Software Engineering Student
 
 💻 Love to write code  
-📚 Love sharing tech knowledge with others
-🎓 Exploring the world of Software Engineering
+📚 Love sharing tech knowledge with others  
+🎓 Exploring the world of Software Engineering  
 
 # 👨‍💻 Skills & Experience
 
-Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c" style="width:40px; height:40px; border:2px solid blueviolet; border-radius:2px; padding:2px; margin:2px;" />
@@ -19,7 +19,7 @@ Programming Languages
   <img src="https://skillicons.dev/icons?i=php" style="width:40px; height:40px; border:2px solid blueviolet; border-radius:2px; padding:2px; margin:2px;" />
 </p>
 
- Frameworks & Tools
+ ### Frameworks & Tools
  
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
@@ -27,7 +27,7 @@ Programming Languages
   <img src="https://skillicons.dev/icons?i=dotnet"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
 </p>
 
-Tools
+### Tools
 
 <div style="display: flex; gap: 4px; border: 1px solid blueviolet; border-radius: 0; padding: 6px; max-width: fit-content;">
   <img src="https://skillicons.dev/icons?i=git" style="width:40px; height:40px; border:1px solid blueviolet; border-radius:0; padding:2px;"/>
@@ -36,7 +36,7 @@ Tools
   <img src="https://skillicons.dev/icons?i=ubuntu" style="width:40px; height:40px; border:1px solid blueviolet; border-radius:0; padding:2px;"/>
 </div>
 
-Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"style="width:40px; height:40px; border:2px solid blueviolet; border-radius:2px; padding:2px; margin:2px;"/>
