@@ -39,21 +39,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<table>
-<tr>
-<td>
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight"/>
-
-</td>
-<td>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
-
+</p>
 ---
 
 # 🔗 Connect with me
