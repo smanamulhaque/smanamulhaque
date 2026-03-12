@@ -9,35 +9,26 @@
 ---
 
 # 👨‍💻 Skills & Experience
+
 ## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=cs" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=java" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=python" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=javascript" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=php" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=cs" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=java" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=python" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=php" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-</p>
+## ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=bootstrap" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=laravel" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=dotnet" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=git" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=vscode" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=linux" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
+<img src="https://skillicons.dev/icons?i=ubuntu" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
 
-
-## ⚙️ Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=laravel"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-  <img src="https://skillicons.dev/icons?i=dotnet"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-</p>
-
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
-<img src="https://skillicons.dev/icons?i=vscode" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=linux" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
-<img src="https://skillicons.dev/icons?i=ubuntu" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
-</p>
+## 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" style="width:40px; height:40px; border:2px solid #000; border-radius:4px; padding:3px; margin:2px;" />
 
 ## 🗄️ Database
 
