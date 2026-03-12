@@ -8,17 +8,7 @@
 
 ---
 
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight)
-
-*The languages percentage will auto-update based on your repositories*
-
----
-
 # 👨‍💻 Skills & Experience
-
 ## 💻 Programming Languages
 
 <p>
@@ -43,12 +33,10 @@
 ## 🛠 Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git"style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;" />
 <img src="https://skillicons.dev/icons?i=vscode" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
 <img src="https://skillicons.dev/icons?i=linux" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" style="width:40px; height:40px; border:2px solid #000; border-radius:2px; padding:2px; margin:2px;"/>
-
 </p>
 
 ## 🗄️ Database
@@ -63,7 +51,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smanamulhaque&theme=tokyonight)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smanamulhaque&show_icons=true&theme=tokyonight)  
-
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smanamulhaque&layout=compact&theme=tokyonight)
 
 ---
 
