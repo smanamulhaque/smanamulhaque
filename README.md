@@ -15,8 +15,9 @@
 
 **Frameworks**
 
-<img title="Bootstrap" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">|<img title="Laravel" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png">|<img title=".NET" alt=".NET" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png">
-|--|--|--|
+**Frameworks**
+
+<img title=".NET" alt=".NET" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png">
 
 
 **Libraries/Tools**
